@@ -1,0 +1,171 @@
+# Joe Rogan Experience #1292 - Lex Fridman - Clip - Twitter, Friendships, and who is on top.
+
+## DISCLAIMER
+> This script is a topic extraction of the discussion between @joerogan and
+> @lexfridman during the Joe Rogan Experience episode #1292 from #VIDEO as a
+> base starting point.
+
+// VARIABLES
+$FEECTING = https://github.com/indraai/language-feecting/
+
+@quinn = https://twitter.com/quinnmichaels
+@joerogan = https://twitter.com/joerogan
+@lexfridman = https://twitter.com/lexfridman
+@ericweinstein = https://twitter.com/EricRWeinstein
+@richardfreeman = https://en.wikipedia.org/wiki/Richard_B._Freeman
+@bretweinstein = https://twitter.com/BretWeinstein
+@samharris = https://twitter.com/SamHarrisOrg
+@michaelshermer = https://twitter.com/michaelshermer
+
+#VIDEO = https://youtu.be/aHJecFrcs5U
+
+-- BEGIN:OUTLINE
+
+  1. Who? @joerogan @lexfridman
+  2. What? #VIDEO
+  3. When? May 9, 2019
+  4. Where? The Joe Rogan Experience
+  5. Why? Because they mentioned an Edge.org member in the podcast
+
+-- END:OUTLINE
+
+-- BEGIN:PROGRAM
+
+  - KeyPoints: The key points from the video that stand out to me
+
+    - Timeline: Breakdown of the video timeline.
+      - 17s: Fascinating using machine learning to manage conversations
+      - 27s: 500,000,000 tweets a day
+      - 45s: A lot of people aggressively arguing
+      - 55s: Can't mamage by manual review
+      - 1m11s: Friend and mentor Eric Weinstein (@ericweinstein)
+      - 6m3s: Strange Conversation
+
+    - Mention: Who is Eric Weinstein (@ericweinstein)?
+      - Bio: Eric Ross Weinstein (born October 1965) is an American mathematician,
+        economist, and the managing director of Thiel Capital, Peter Thiel's
+        investment firm. He also writes on investments, capitalism, science, and
+        mathematics.
+
+      - Info: Bachelors in Mathematics
+      - Info: PHD Mathematical Physics
+      - Info: Director of Thiel Capitol
+      - Info: Intellectual Dark Web
+        - Article: New York Times
+          - Title: Meet the Renegades of the Intellectual Dark Web
+          - Link: https://www.nytimes.com/2018/05/08/opinion/intellectual-dark-web.html
+          - Description: An alliance of heretics is making an end run around the
+            mainstream conversation. Should we be listening?
+        - Website: 
+
+      - Wiki: https://en.wikipedia.org/wiki/Eric_Weinstein
+      - Edge: https://www.edge.org/memberbio/eric_r_weinstein
+
+    - Mention: Richard Freeman (@richardfreeman)
+      - Bio: Richard Barry Freeman (born June 29, 1943) is an economist. The
+        Herbert Ascherman Professor of Economics at Harvard University and
+        Co-Director of the Labor and Worklife Program at Harvard Law School,
+        Freeman is also Senior Research Fellow on Labour Markets at the Centre
+        for Economic Performance, part of the London School of Economics,
+        funded by the Economic and Social Research Council, the UK's public
+        body funding social science. Freeman directs the Science and Engineering
+        Workforce Project (SEWP) at the National Bureau of Economic Research
+        (NBER), a network focused on the economics of science, technical,
+        engineering, and IT labor which has received major long-term support
+        from the Sloan Foundation.
+
+      - Wiki: https://en.wikipedia.org/wiki/Richard_B._Freeman
+      - Edge: https://www.edge.org/memberbio/richard_freeman
+
+    - Mention: Bret Weinstein (@bretweinstein)
+      - Bio: Bret Samuel Weinstein (born February 1969) is an American biologist
+        and evolutionary theorist.
+
+      - Wiki: https://en.wikipedia.org/wiki/Bret_Weinstein
+      - Edge: https://www.edge.org/memberbio/bret_weinstein
+
+    - Mention: Sam Harris (@samharris)
+      - Bio: Samuel Benjamin Harris (born April 9, 1967) is an American
+        neuroscientist, philosopher, author, critic of religion,[3] blogger,
+        public intellectual, and podcast host.
+
+      - Wiki: https://en.wikipedia.org/wiki/Sam_Harris
+      - Edge: https://www.edge.org/memberbio/sam_harris
+
+    - Mention: Steven Pinker (@samharris)
+      - Bio: Steven Arthur Pinker (born September 18, 1954) is a Canadian-American
+        cognitive psychologist, linguist, and popular science author. He is
+        Johnstone Family Professor in the Department of Psychology at Harvard
+        University, and is known for his advocacy of evolutionary psychology
+        and the computational theory of mind.
+
+      - Wiki: https://en.wikipedia.org/wiki/Steven_Pinker
+      - Edge: https://www.edge.org/memberbio/steven_pinker
+
+      - Note: Steven Pinker is directly connected to Jeffrey Epstein.
+
+    - Mention: Michael Shermer (@michaelshermer)
+      - Bio: Michael Brant Shermer (born September 8, 1954) is an American
+        science writer, historian of science, founder of The Skeptics Society,
+        and editor-in-chief of its magazine Skeptic,[2] which is largely devoted
+        to investigating pseudoscientific and supernatural claims. The Skeptics
+        Society currently has over 55,000 members.[3] Shermer engages in debates
+        on topics pertaining to pseudoscience and religion in which he emphasizes
+        scientific skepticism.
+
+      - Wiki: https://en.wikipedia.org/wiki/Michael_Shermer
+      - Edge: https://www.edge.org/memberbio/michael_shermer
+
+    - Mention: Joe Rogan (@joerogan)
+      - Bio: Joseph James Rogan (born August 11, 1967) is an American stand-up
+      comedian, mixed martial arts (MMA) color commentator, podcast host,
+      businessman and former television host and actor.
+
+      - Wiki: https://en.wikipedia.org/wiki/Joe_Rogan
+
+    - Tags: #DRILLING, #DrillingPartner, #LiveDrills, #PathwayDrills, #Pathway,
+      #GAME, #RubberGuard, #EFFECTIVE, #ArtForm, #Guards, #MissionControl, #Top,
+      #Bottom, #LowerRank, #CrushingTopGame, #TopGame, #BottomGame
+
+  - Messages: Messages from the information
+    - Note: Some of these messages should include all the Intellectual Dark Web
+      members that are also involved with EDGE.org
+
+    - Joe Rogan and Lex Fridman talk about Artificial Intelligence
+    - Lex Fridman MIT AI researcher is fascinated with Twitter Conversations
+    - Eric Weinstein who cointed the term Intellectual Dark Web
+    - The Intellectual Dark Web Group has EDGE.org members in it too
+    - What is the meaning behind the EDGE members forming the Intellectual Dark Web
+    - Why isPeter Thiel always connected to a group of people influencing reality.
+
+  - Tweets: These are tweets based on the messages
+
+-- END:PROGRAM
+
+-- BEGIN:META
+
+  Title: Joe Rogan Experience #1292 - Lex Fridman - Clip - Twitter, Friendships, and who is on top.
+  Version: 1.0
+  Author: @
+  Date:
+  Copyright: Copyright (c) @. All Rights Reserved
+  License:
+    Permission is hereby granted, free of charge, to any person obtaining a
+    copy of this PROGRAM and associated documentation files (the "PROGRAM"),
+    to deal in the PROGRAM without restriction, including without limitation
+    the rights to use, copy, modify, merge, publish, distribute, sublicense,
+    and/or sell copies of the PROGRAM, and to permit persons to whom the PROGRAM
+    is furnished to do so, subject to the following conditions:
+
+    The above copyright notice and this permission notice shall be included
+    in all copies or substantial portions of the PROGRAM.
+
+    THE PROGRAM IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+    OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
+    THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR
+    OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+    ARISING FROM, OUT OF OR IN CONNECTION WITH THE PROGRAM OR THE USE OR
+    OTHER DEALINGS IN THE PROGRAM.
+
+-- END:META
